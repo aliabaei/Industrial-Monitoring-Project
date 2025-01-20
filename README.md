@@ -4,7 +4,7 @@ The robots, based on the received information, select the required trajectory fo
 
 Project Requirements:
 Basler industrial cameras
-An interface program that creates a virtual port
+An interface program that creates a virtual port (https://free-virtual-serial-ports-emulator.software.informer.com/0.9/)
 
 Installation and Setup:
 1. Install the camera software.
