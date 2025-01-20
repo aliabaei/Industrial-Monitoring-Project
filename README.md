@@ -11,4 +11,4 @@ Installation and Setup:
 1. Install the camera software.
 2. Launch the virtual port creator program and create two virtual ports for communication.
 3. Run the monitoring program.
-4. 4. Done!
+4. Done!
