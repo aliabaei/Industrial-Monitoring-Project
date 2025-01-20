@@ -3,8 +3,8 @@ The project identifies the bodies entering the paint cabin and, by connecting to
 The robots, based on the received information, select the required trajectory for each body, and the body will be painted by the robots accordingly.
 
 Project Requirements:
-Basler industrial cameras
-An interface program that creates a virtual port
+1. Basler industrial cameras
+2. An interface program that creates a virtual port
 (https://free-virtual-serial-ports-emulator.software.informer.com/0.9/)
 
 Installation and Setup:
